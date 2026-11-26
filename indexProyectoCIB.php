@@ -44,7 +44,7 @@
                     <h4>Fundamentos de ciberseguridad</h4>
 
                     <a class="enlace-guia"
-                       href="doc/EstudioTema1.pdf"
+                       href="doc/EstudioTema1_yolanda.pdf"
                        target="_blank"
                        rel="noopener noreferrer">
                         Glosario – Estudio Tema 1
